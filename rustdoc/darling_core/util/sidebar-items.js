@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["Override"],"fn":["parse_attribute_to_meta_list","path_to_string"],"struct":["Flag","IdentString","Ignored","PathList","SpannedValue","WithOriginal"]};
+window.SIDEBAR_ITEMS = {"enum":["Override","Shape"],"fn":["parse_attribute_to_meta_list","path_to_string"],"mod":["parse_expr"],"struct":["Callable","Flag","IdentString","Ignored","PathList","PreservedStrExpr","ShapeSet","SpannedValue","WithOriginal"],"trait":["AsShape"]};

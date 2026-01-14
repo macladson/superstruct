@@ -1,1 +1,2 @@
-window.ALL_CRATES = ["customer","darling","darling_core","darling_macro","either","fnv","ident_case","itertools","itoa","nested","proc_macro2","quote","request","ryu","serde","serde_derive","serde_json","smallvec","strsim","superstruct","syn","unicode_ident"];
+window.ALL_CRATES = ["customer","darling","darling_core","darling_macro","either","ident_case","itertools","itoa","memchr","nested","proc_macro2","quote","request","serde","serde_core","serde_derive","serde_json","smallvec","strsim","superstruct","syn","unicode_ident","zmij"];
+//{"start":21,"fragment_lengths":[10,10,15,16,9,13,12,7,9,9,14,8,10,8,13,15,13,11,9,14,6,16,7]}
